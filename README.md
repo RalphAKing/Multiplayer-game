@@ -83,3 +83,42 @@ The client will prompt you for a username and then connect to the server. The pl
 
 - **Server not starting**: Make sure that no other application is using port `5555`.
 - **Connection issues**: Ensure both the client and server are running on the same machine, and verify that `127.0.0.1` is accessible.
+
+
+You do not have to pay for using or modifying this code if you choose to use the MIT license. The MIT license is a permissive open-source license, meaning you can freely use, modify, and distribute the code with minimal restrictions.
+
+However, if you want to include the MIT license in your project, it typically requires including a short disclaimer and the full text of the license. This is usually added to a `LICENSE` file in the root of your project or at the bottom of your README.
+
+Here’s an example of how you can include the license at the bottom of your README:
+
+---
+
+## License
+
+This project is open-source and available for modification and use under the MIT license.
+
+### MIT License
+
+```
+MIT License
+
+Copyright (c) 2024 Ralph King
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+```
