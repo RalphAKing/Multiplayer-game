@@ -33,7 +33,7 @@ def main():
     
     clock = pygame.time.Clock()
     running = True
-    died = False  
+    died = False  # Track if the player is dead
 
     while running:
         screen.fill(BG_COLOR)
